@@ -1,0 +1,111 @@
+body{
+    background-color: black;
+    color: white;
+}
+#main-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#white-box-div{
+    height: 290px;
+    width: 428px;
+    background: #FFFFFF;
+    color: black;
+}
+#heading{
+margin-left: 2%;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 9px;
+text-align: left;
+}
+
+#details-div{
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-bottom: 2%;
+}
+#div1{
+    
+    margin-left: 3%;
+font-family: Inter;
+font-size: 12px;
+font-weight: 200;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+#adress-div{
+    color: white;
+}
+
+#ad{
+    margin-top: 6%;
+font-family: Inter;
+font-size: 30px;
+font-weight: 700;
+letter-spacing: 0em;
+text-align: left;
+}
+
+#in-1{
+    
+    margin: 0px;
+    border: 1px solid white;
+    background-color: black;
+    width: 408px;
+    border-radius: 0%;
+    padding: 2%;
+    color: white;
+}
+
+#btn{
+    margin-top: 4%;
+    background-color: white;
+    color: black;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 100;
+    letter-spacing: 0em;
+    text-align: center;
+}
+#loc-details{
+    background-color: black;
+    height: 290px;
+    width: 428px;
+}
+#data{
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 500;
+    text-align: left;
+    color:white;
+    height: 160px;
+    width: 1241px;
+    left: 93px;
+    top: 2268px;
+}
+#innerdiv{
+    margin-top: 3%;
+    border: 1px solid white;
+    font-family: Inter;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 32px;
+    text-align: left;
+    margin-right: 2%;
+    margin-bottom: 2%;
+    color: white;
+}
